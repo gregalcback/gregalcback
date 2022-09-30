@@ -94,14 +94,10 @@ I am always looking to build long-lasting solutions for my clients and support t
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 <p align="center" vertical-align="top">
-    <img alt="Top coding languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegasguille7&theme=default&layout=compact&hide_border=true"/>
-    <img alt="Commit stats" src="https://github-readme-stats.vercel.app/api?username=guillergood&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
+    <img alt="Top coding languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glrodasz&theme=default&layout=compact&hide_border=true"/>
+    <img alt="Commit stats" src="https://github-readme-stats.vercel.app/api?username=glrodasz&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=guillergood)  
-
-![GitHub metrics](https://metrics.lecoq.io/guillergood)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=guillergood)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=glrodasz)  
 
 ![Profile views](https://gpvc.arturio.dev/guillergood)  
