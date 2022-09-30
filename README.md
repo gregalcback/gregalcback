@@ -94,7 +94,7 @@ I am always looking to build long-lasting solutions for my clients and support t
 </div>
 
 
-<div align="center">
+<div align="left">
     <img alt="Top coding languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glrodasz&theme=default&layout=compact&hide_border=true"/>
     <img alt="Commit stats" src="https://github-readme-stats.vercel.app/api?username=glrodasz&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
 </div>
