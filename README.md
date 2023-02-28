@@ -1,14 +1,19 @@
 ### Hi there 👋, my name is Guille 
 #### I am a Full Stack Web Developer with 6+ Years of Experience 
 ![I am a Full Stack Web Developer with 6+ Years of Experience](https://github.com/vegasguille7/vegasguille7/blob/main/guillev_coverimg.png) 
+
 🏅**Expertise** 
 I specialize in architecting complex projects that are highly scalable and secure. You will never hear me say something is impossible unless it truly is (very rare). My code is fully tested and bug-free before I share it with you. 
+<br>
 💯**Integrity** 
 I will always be honest with you and offer the best solutions for your business. I measure my success based off of my client's success. This is the driving value behind all of my decisions. 
+<br>
 📞**Communication** 
 I will actively listen to you, read between the lines, and ask specific questions where things are unclear. Understanding your vision and having a 'meeting of the minds' is my number one priority before I start any work. 
+<br>
 💰**Cost Savings** 
 I have pre-built solutions I've complied over the years that I use for most clients. It typically shaves off 10-50% of the total cost—depending on the overlap with your unique project needs. 
+<br>
 👌**Reliability** 
 I am always looking to build long-lasting solutions for my clients and support them as their business grows. I take responsibility for the projects I work on, even months or years later. 
 <br><br> 
