@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am a Full Stack Developer with 10+ Years of Experience 
+#### I am a Full Stack Developer with 8+ Years of Experience 
 
 🏅**Expertise** 
 I specialize in architecting complex projects that are highly scalable and secure. You will never hear me say something is impossible unless it truly is (very rare). My code is fully tested and bug-free before I share it with you. 
@@ -61,6 +61,6 @@ I am always looking to build long-lasting solutions for my clients and support t
     <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>  
 </div> 
 <div align="left"> 
-    <img alt="Top coding languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrepo89&theme=default&layout=compact&hide_border=true"/> 
-    <img unselectable="on" alt="Commit stats" src="https://github-readme-stats.vercel.app/api?username=lucasrepo89&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/> 
+    <img alt="Top coding languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italicodex&theme=default&layout=compact&hide_border=true"/> 
+    <img unselectable="on" alt="Commit stats" src="https://github-readme-stats.vercel.app/api?username=italicodex&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/> 
 </div> 
