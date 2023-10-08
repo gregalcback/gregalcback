@@ -10,14 +10,14 @@
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
 
+<p align='center' style='font-size: 16px;'>
+    ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
+</p>
+
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=italytechpro&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
-</p>
-
-<p align='center' style='font-size: 16px;'>
-    ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
 </p>
 
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
@@ -229,3 +229,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=italytechpro&show_icons=true&locale=en&theme=gruvbox" alt="italytechpro" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=italytechpro&theme=gruvbox" alt="italytechpro" />
 </p>
+
+<a href="https://github.com/italytechpro/spring-framework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=italytechpro&repo=spring-framework" />
+</a>
+<a href="https://github.com/italytechpro/caffein">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=italytechpro&repo=caffein" />
+</a>
