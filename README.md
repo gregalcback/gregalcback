@@ -1,7 +1,3 @@
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/greetings.gif" alt="Hello World" />
-</p>
-
 <h1 align="center">
     Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Gregorio Lacava
 </h1>
@@ -235,14 +231,7 @@
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=italytechpro&show_icons=true&locale=en&theme=gruvbox" alt="italytechpro" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=italytechpro&theme=gruvbox" alt="italytechpro" />
 </p>
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/italytechpro/italytechpro/blob/output/github-contribution-grid-snake-dark.svg" alt="italytechpro pathrabe stats snake" />
-</p>
