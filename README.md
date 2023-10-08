@@ -233,5 +233,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=italytechpro&show_icons=true&locale=en&theme=gruvbox" alt="italytechpro" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=italytechpro&theme=gruvbox" alt="italytechpro" />
 </p>
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
