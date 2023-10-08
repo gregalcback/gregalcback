@@ -228,6 +228,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italytechpro&hide_progress=true" alt="italytechpro" />
 </p>
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=italytechpro&show_icons=true&locale=en&theme=default" alt="italytechpro" />
+    <img src="https://github-readme-stats.vercel.app/api?username=italytechpro&show_icons=true&locale=en&theme=default&layout=compact&card_width=320"" alt="italytechpro" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=italytechpro&theme=default" alt="italytechpro" />
 </p>
