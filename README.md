@@ -225,14 +225,9 @@
     Stats
 </h3>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italytechpro&hide_progress=true)
+
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=italytechpro&show_icons=true&locale=en&theme=gruvbox" alt="italytechpro" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=italytechpro&theme=gruvbox" alt="italytechpro" />
 </p>
-
-<a href="https://github.com/italytechpro/spring-framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=italytechpro&repo=spring-framework" />
-</a>
-<a href="https://github.com/italytechpro/caffein">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=italytechpro&repo=caffein" />
-</a>
